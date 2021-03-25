@@ -1,0 +1,23 @@
+{
+  "name": "file-property",
+  "version": "1.0.0",
+  "description": "get property of file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasha1110/file-property.git"
+  },
+  "keywords": [
+    "file",
+    "cli"
+  ],
+  "author": "erlangga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasha1110/file-property/issues"
+  },
+  "homepage": "https://github.com/pasha1110/file-property#readme"
+}
