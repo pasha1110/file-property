@@ -101,3 +101,6 @@ the following are some of the functions available:
         ```
     <br>
 
+## conclusion
+that's the file-property documentation
+thank you for reading
